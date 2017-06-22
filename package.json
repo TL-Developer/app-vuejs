@@ -1,0 +1,22 @@
+{
+  "name": "app-vuejs",
+  "version": "0.0.1",
+  "description": "Aplicação simples com vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TL-Developer/app-vuejs.git"
+  },
+  "author": "Tiago Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TL-Developer/app-vuejs/issues"
+  },
+  "homepage": "https://github.com/TL-Developer/app-vuejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
